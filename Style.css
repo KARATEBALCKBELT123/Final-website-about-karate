@@ -1,0 +1,40 @@
+body{
+    background-image:url('Dojo.jpg');
+    background-size:cover;
+    background-attachment:fixed;
+    }
+    .nav{
+    height:50px;
+    background-color:chocolate;
+    }
+    .nav div{
+    display:inline-block;
+    position:absolute;
+    left:0;
+    padding:15px;
+    font-size:20px;
+    color:white;
+    font-family:impact;
+    }
+    .nav ul{
+    position:absolute;
+    right:5px;
+    }
+    .nav ul li{
+    display:inline-block;
+    }    
+.nav ul li a{
+color:white;
+padding:5px;
+}
+h1{
+ color:lightblue;
+font-family:impact;
+}
+h2{
+color:pink;
+font-family:impact;
+}
+form{
+color:aqua;
+}   
